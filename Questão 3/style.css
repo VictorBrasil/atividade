@@ -1,0 +1,23 @@
+body{
+	background-color: black;
+}
+.s{
+	font-family: Impact, fantasy;
+	color: red;
+	border-bottom: 25px;
+}
+span{
+	color: red;
+	font-family: URW Chancery L, cursive;
+
+}
+button{
+	background-color: black;
+	color: red;
+	border-radius: 50px;
+
+}
+li{
+	border-bottom: 10px;
+	word-spacing: 15px;
+}
